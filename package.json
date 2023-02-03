@@ -1,0 +1,23 @@
+{
+  "name": "zenn-scraps",
+  "version": "1.0.0",
+  "description": "Zenn の記事を Github 連携で投稿するためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-tsuritani/zenn-scraps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-tsuritani/zenn-scraps/issues"
+  },
+  "homepage": "https://github.com/y-tsuritani/zenn-scraps#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.137"
+  }
+}

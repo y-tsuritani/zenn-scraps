@@ -1,2 +1,3 @@
-# zenn-scraps
-Zenn の記事を Github 連携で投稿するためのリポジトリ
+# Zenn CLI
+
+* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
