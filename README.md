@@ -8,13 +8,13 @@
 
 ## 使い方
 
-**新しい記事の作成**
+### 新しい記事の作成
 
 ```bash
 `$ npx zenn new:article`
 ```
 
-**ヘッダーのテンプレート**
+### ヘッダーのテンプレート
 
 ```yaml
 ---
@@ -26,13 +26,13 @@ published: true # 公開設定（falseにすると下書き）
 ---
 ```
 
-**記事のプレビュー**
+### 記事のプレビュー
 
 ```bash
-$ npx zenn preview # プレビュー開始
+`$ npx zenn preview` # プレビュー開始
 ```
 
-**公開時刻の予約**
+### 公開時刻の予約
 
 ```yaml
 published: true # trueを指定する
