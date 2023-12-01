@@ -39,7 +39,7 @@ published: true # trueを指定する
 published_at: 2050-06-12 09:03 # 未来の日時を指定する
 ```
 
-**Zenn CLI のアップデート**
+### Zenn CLI のアップデート
 
 ```bash
 $ npm update # npm のアップデート
