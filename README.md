@@ -11,7 +11,7 @@
 ### 新しい記事の作成
 
 ```bash
-`$ npx zenn new:article`
+npx zenn new:article
 ```
 
 ### ヘッダーのテンプレート
@@ -23,13 +23,15 @@ emoji: "⚙" # アイキャッチとして使われる絵文字（1文字だけ�
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["Python", "GCP"] # タグ。["markdown", "rust", "aws"]のように指定する
 published: true # 公開設定（falseにすると下書き）
+published_at: 2050-06-12 09:03 # 予約投稿（投稿日時を指定する）
+publication_name: my_company # Publication投稿をする際のみ指定する
 ---
 ```
 
 ### 記事のプレビュー
 
 ```bash
-`$ npx zenn preview` # プレビュー開始
+npx zenn preview # プレビュー開始
 ```
 
 ### 公開時刻の予約
@@ -42,7 +44,7 @@ published_at: 2050-06-12 09:03 # 未来の日時を指定する
 ### Zenn CLI のアップデート
 
 ```bash
-$ npm update # npm のアップデート
-$ npx update # npx のアップデート
-$ npm install zenn-cli@latest # zenn cli のアップデート
+npm update # npm のアップデート
+npx update # npx のアップデート
+npm install zenn-cli@latest # zenn cli のアップデート
 ```
