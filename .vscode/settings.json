@@ -1,7 +1,10 @@
 {
-    "cSpell.words": [
-        "chatgpt",
-        "cloudfunctions",
-        "Zenn"
-    ]
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:zenn-scraps}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }
