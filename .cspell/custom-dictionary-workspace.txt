@@ -1,0 +1,13 @@
+# Custom Dictionary Words
+gixo
+pytest
+chatgpt
+cloudfunctions
+pulumi
+choco
+zenn
+gyazo
+githubactions
+workloadidentityfe
+OIDC
+openai
